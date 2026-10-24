@@ -1,0 +1,20 @@
+{
+  "name": "luau-benchmark",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "source": {
+        "$className": "Folder",
+        
+        "Benchmark": {
+          "$path": "source"
+        }
+      },
+
+      "tests": {
+        "$path": "tests"
+      }
+    }
+  }
+}
